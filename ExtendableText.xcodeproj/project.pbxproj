@@ -13,6 +13,7 @@
 		3284B24922E8ED6B0095FFF5 /* ExtendableText.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3284B24722E8ED6B0095FFF5 /* ExtendableText.xcdatamodeld */; };
 		3284B24B22E8ED6F0095FFF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3284B24A22E8ED6F0095FFF5 /* Assets.xcassets */; };
 		3284B24E22E8ED6F0095FFF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3284B24C22E8ED6F0095FFF5 /* LaunchScreen.storyboard */; };
+		32F3283822EA44F2006464F1 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F3283722EA44F2006464F1 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3284B24A22E8ED6F0095FFF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3284B24D22E8ED6F0095FFF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3284B24F22E8ED6F0095FFF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32F3283722EA44F2006464F1 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3284B24C22E8ED6F0095FFF5 /* LaunchScreen.storyboard */,
 				3284B24F22E8ED6F0095FFF5 /* Info.plist */,
 				3284B24722E8ED6B0095FFF5 /* ExtendableText.xcdatamodeld */,
+				32F3283722EA44F2006464F1 /* Extensions.swift */,
 			);
 			path = ExtendableText;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				3284B24322E8ED6B0095FFF5 /* ViewController.swift in Sources */,
 				3284B24122E8ED6B0095FFF5 /* AppDelegate.swift in Sources */,
 				3284B24922E8ED6B0095FFF5 /* ExtendableText.xcdatamodeld in Sources */,
+				32F3283822EA44F2006464F1 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
